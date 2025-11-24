@@ -2,7 +2,7 @@
 ### Tools: SQL • Excel • Tableau | 2025
 
 ## 📌 Project Overview  
-This project analyzes Apple iPhone sales, customer behavior, and marketing effectiveness using SQL, Excel, and Tableau.  
+This project analyzes Apple iPhone sales, customer behavior, and marketing effectiveness using SQL.
 It focuses on how customer loyalty is influenced by purchasing patterns, upgrade behavior, and the impact of marketing campaigns.
 
 The analysis includes:  
