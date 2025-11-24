@@ -1,0 +1,101 @@
+customer_id,name,email,phone,gender,birth_year,signup_date,city,state,country
+1,Sneha Sharma,user1@example.com,7304912982,Female,1982,2023-05-14,Mumbai,Maharashtra,India
+2,David Brown,user2@example.com,9710566582,Female,1999,2021-05-20,Madrid,Lazio,USA
+3,Olivia Miller,user3@example.com,7252860896,Female,1992,2020-03-24,Mumbai,Maharashtra,India
+4,Sneha Johnson,user4@example.com,7983297492,Male,1989,2019-12-27,Sydney,Ontario,South Korea
+5,Amit Kim,user5@example.com,7289482182,Female,1984,2023-07-05,Mumbai,Maharashtra,India
+6,Sara Nair,user6@example.com,7134917627,Female,1984,2022-11-26,Mumbai,Maharashtra,India
+7,Rahul Verma,user7@example.com,8419179580,Female,1971,2021-11-26,Rome,Illinois,Australia
+8,Liam Brown,user8@example.com,7304330003,Female,1982,2021-08-09,Sydney,New South Wales,Australia
+9,Jacob Martinez,user9@example.com,9208283728,Male,1995,2019-04-13,Mumbai,Tokyo,Italy
+10,Rahul Johnson,user10@example.com,8022222125,Male,1991,2022-02-15,Mexico City,Lazio,UK
+11,Liam Johnson,user11@example.com,8196050747,Male,1987,2020-05-25,Ahmedabad,Seoul,India
+12,Sara Brown,user12@example.com,9873237671,Female,1974,2023-10-04,Mexico City,Shanghai,UAE
+13,Hiroshi Kim,user13@example.com,9084839399,Male,1987,2019-09-06,Mumbai,Maharashtra,India
+14,David Sharma,user14@example.com,7920140090,Female,1992,2021-07-23,Mumbai,Maharashtra,India
+15,Emily Rossi,user15@example.com,9315992115,Male,2002,2019-10-01,Mumbai,Maharashtra,India
+16,Arjun Chen,user16@example.com,7568275055,Male,1995,2023-06-30,Madrid,Shanghai,Japan
+17,John Smith,user17@example.com,9452611418,Female,2004,2021-08-09,Mumbai,Maharashtra,India
+18,Arjun Kapoor,user18@example.com,9474810179,Male,1991,2022-09-29,Mumbai,Maharashtra,India
+19,Amit Garcia,user19@example.com,9030106617,Male,1971,2021-12-23,Mexico City,Tokyo,South Korea
+20,Sneha Khan,user20@example.com,8043665192,Male,1977,2022-02-18,Seoul,Seoul,India
+21,Fatima Martinez,user21@example.com,9031403296,Female,1986,2022-05-04,Mumbai,Maharashtra,India
+22,David Nair,user22@example.com,8748309234,Female,1981,2020-10-11,Mumbai,Maharashtra,India
+23,Hiroshi Johnson,user23@example.com,7817804383,Male,1986,2023-03-27,Mumbai,Maharashtra,India
+24,Sneha Garcia,user24@example.com,7405126228,Female,1972,2021-06-25,Rome,Maharashtra,UAE
+25,Amit Johnson,user25@example.com,7416314667,Female,1976,2022-06-08,New York,New South Wales,USA
+26,Sophia Martinez,user26@example.com,9830309370,Female,1997,2023-07-28,Mumbai,Maharashtra,India
+27,Fatima Kim,user27@example.com,8851350739,Male,1992,2023-01-13,Mumbai,Maharashtra,India
+28,Liam Verma,user28@example.com,8521696479,Female,1990,2021-10-30,Bangalore,New South Wales,Mexico
+29,Priya Brown,user29@example.com,8819256337,Male,1997,2021-05-23,Mumbai,Maharashtra,India
+30,Sophia Verma,user30@example.com,8765670844,Female,2002,2023-08-29,Mumbai,Maharashtra,India
+31,Olivia Kapoor,user31@example.com,9005855667,Female,1977,2022-01-27,Ahmedabad,Shanghai,South Korea
+32,Daniel Chen,user32@example.com,7232663462,Male,1994,2021-07-02,Mumbai,Maharashtra,India
+33,Hiroshi Khan,user33@example.com,9892078691,Male,1982,2019-11-22,Tokyo,Shanghai,China
+34,Emily Khan,user34@example.com,9806569935,Female,1986,2023-03-04,Mumbai,Maharashtra,India
+35,Fatima Smith,user35@example.com,9775320897,Male,1972,2023-10-31,Ahmedabad,Shanghai,Japan
+36,David Verma,user36@example.com,7422701550,Male,1997,2021-08-30,Mexico City,Illinois,Australia
+37,Isabella Davis,user37@example.com,7260329455,Female,1970,2021-07-10,Mumbai,Maharashtra,India
+38,Mia Brown,user38@example.com,8729245242,Male,2003,2020-06-14,Rome,Ontario,UAE
+39,Emily Tanaka,user39@example.com,8457293575,Female,2004,2023-03-20,Mumbai,Maharashtra,India
+40,Daniel Chen,user40@example.com,7469306919,Female,1982,2020-05-21,Mumbai,Maharashtra,India
+41,Mia Brown,user41@example.com,8067970820,Male,1993,2023-09-17,Mumbai,Maharashtra,India
+42,Arjun Nair,user42@example.com,7822873088,Female,1997,2022-07-29,Mumbai,Lazio,South Korea
+43,Olivia Nair,user43@example.com,7816941039,Female,1974,2020-07-21,Mumbai,Maharashtra,India
+44,Arjun Garcia,user44@example.com,9303329764,Female,1991,2023-04-18,Bangalore,Illinois,India
+45,David Verma,user45@example.com,8926780541,Male,1990,2023-05-12,Mumbai,Maharashtra,India
+46,Liam Kim,user46@example.com,7602078388,Male,1977,2021-12-03,Mumbai,Maharashtra,India
+47,Arjun Smith,user47@example.com,8811967841,Female,1989,2021-09-19,Delhi,New South Wales,China
+48,Emma Garcia,user48@example.com,7788075126,Male,2002,2022-07-07,Bangalore,Tokyo,China
+49,Hiroshi Miller,user49@example.com,8196342297,Female,1989,2020-05-04,Mumbai,Maharashtra,UAE
+50,David Miller,user50@example.com,8986972437,Male,1996,2020-07-16,Mumbai,Maharashtra,India
+51,Olivia Johnson,user51@example.com,8072910527,Male,1990,2021-06-19,Mumbai,Maharashtra,India
+52,Mia Chen,user52@example.com,7323775634,Male,1995,2019-06-08,Mumbai,Maharashtra,India
+53,Noah Rossi,user53@example.com,8903232052,Female,1988,2023-01-01,Mumbai,Maharashtra,India
+54,Noah Garcia,user54@example.com,9363629219,Female,2005,2020-08-08,Mumbai,Maharashtra,India
+55,Fatima Brown,user55@example.com,7420514789,Male,1978,2020-04-25,Mumbai,Maharashtra,India
+56,John Evans,user56@example.com,7217275224,Male,1982,2020-07-10,New York,Seoul,UK
+57,Emma Verma,user57@example.com,9800940984,Female,1996,2020-11-18,Mumbai,Maharashtra,India
+58,Priya Kapoor,user58@example.com,9321807489,Female,1994,2020-10-16,Pune,New South Wales,Japan
+59,John Davis,user59@example.com,7063384488,Male,1981,2022-01-11,Seoul,Illinois,Australia
+60,Sara Martinez,user60@example.com,7400560567,Female,1989,2019-06-15,London,Ontario,South Korea
+61,Amit Garcia,user61@example.com,8015242176,Male,1995,2019-10-11,Mumbai,Maharashtra,India
+62,Daniel Martinez,user62@example.com,7714300770,Female,2005,2019-11-05,Mumbai,Maharashtra,India
+63,Hiroshi Evans,user63@example.com,8745535098,Male,1970,2020-04-18,Dubai,Illinois,India
+64,David Johnson,user64@example.com,9085812759,Male,1989,2021-02-23,Mumbai,Maharashtra,India
+65,Rahul Kapoor,user65@example.com,9067418686,Female,1988,2022-11-22,Mumbai,Maharashtra,India
+66,Mia Chen,user66@example.com,7918037633,Female,1983,2019-11-09,Madrid,Tokyo,UAE
+67,Arjun Kapoor,user67@example.com,8722454917,Female,1997,2022-12-17,Pune,Shanghai,Australia
+68,Sophia Rossi,user68@example.com,7251837136,Female,1990,2020-03-14,Mumbai,Maharashtra,India
+69,Emily Tanaka,user69@example.com,7707111048,Female,1999,2019-05-12,Mumbai,Maharashtra,India
+70,Rahul Chen,user70@example.com,8627677155,Male,1998,2021-04-29,Mumbai,Maharashtra,India
+71,Jacob Davis,user71@example.com,7009257255,Female,1998,2021-04-14,Seoul,Maharashtra,South Korea
+72,Jacob Kapoor,user72@example.com,8676848676,Male,1983,2020-11-08,Mumbai,Maharashtra,India
+73,Sophia Evans,user73@example.com,8139038460,Female,2002,2022-01-16,Mumbai,Maharashtra,India
+74,Isabella Smith,user74@example.com,8954246074,Female,2000,2021-08-12,Seoul,Maharashtra,USA
+75,John Khan,user75@example.com,8225136114,Male,1980,2021-05-01,Mexico City,Illinois,Mexico
+76,Emily Johnson,user76@example.com,8816803306,Male,1975,2019-05-08,Mexico City,California,China
+77,Jacob Sharma,user77@example.com,9991837720,Female,1988,2020-02-28,Mumbai,Maharashtra,India
+78,Isabella Patel,user78@example.com,9387006772,Male,2002,2023-09-02,Mumbai,Maharashtra,India
+79,Emma Sharma,user79@example.com,9842715617,Female,1991,2021-05-10,Seoul,New South Wales,UK
+80,Sneha Khan,user80@example.com,9090237817,Female,1975,2021-03-08,Mumbai,Maharashtra,India
+81,Sophia Brown,user81@example.com,7664847319,Female,1985,2023-04-26,Pune,Seoul,India
+82,Priya Brown,user82@example.com,7815605132,Male,1989,2022-04-11,Mumbai,Maharashtra,India
+83,Noah Verma,user83@example.com,8274350418,Male,1984,2022-11-25,Mumbai,Maharashtra,India
+84,Amit Wilson,user84@example.com,7935018220,Female,1982,2019-02-10,Mumbai,Maharashtra,India
+85,Amit Johnson,user85@example.com,7251183830,Female,1979,2023-10-21,Seoul,Maharashtra,South Korea
+86,John Miller,user86@example.com,9487560384,Female,1971,2023-04-17,Mumbai,Maharashtra,India
+87,Emma Johnson,user87@example.com,9328710672,Female,1972,2022-03-25,Mumbai,Maharashtra,India
+88,Emily Chen,user88@example.com,7261810763,Male,1985,2021-02-18,Mumbai,Maharashtra,India
+89,Jacob Martinez,user89@example.com,8346922426,Female,2000,2021-09-03,Mumbai,Maharashtra,India
+90,Sara Smith,user90@example.com,7245522987,Female,1974,2019-01-13,Dubai,California,UAE
+91,Mia Smith,user91@example.com,7215359682,Male,1999,2020-12-21,Mumbai,Maharashtra,India
+92,Sophia Garcia,user92@example.com,9509023674,Male,1996,2020-09-03,Toronto,Maharashtra,UAE
+93,Fatima Tanaka,user93@example.com,9047791082,Female,1982,2023-03-24,Ahmedabad,Illinois,Mexico
+94,Jacob Tanaka,user94@example.com,9159725924,Male,1994,2021-03-09,Mumbai,New York,Mexico
+95,Sneha Brown,user95@example.com,9281169403,Female,2001,2023-10-14,Rome,Shanghai,Australia
+96,Olivia Verma,user96@example.com,7676168421,Female,1995,2023-09-08,Mumbai,Maharashtra,India
+97,Arjun Sharma,user97@example.com,7244295904,Male,1985,2021-05-08,Mumbai,Maharashtra,India
+98,Noah Johnson,user98@example.com,9181106786,Female,1979,2022-01-07,Rome,Illinois,South Korea
+99,Olivia Kim,user99@example.com,7344076115,Male,1970,2023-03-11,Mumbai,Maharashtra,India
+100,Olivia Sharma,user100@example.com,7798112150,Female,1976,2023-02-13,Tokyo,New York,Japan

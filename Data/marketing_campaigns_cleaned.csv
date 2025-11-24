@@ -1,0 +1,61 @@
+campaign_id,campaign_name,channel,start_date,end_date,region,cost,currency
+1,Holiday Sale,Retail,2024-01-23,2024-02-07,India,416519,INR
+2,New Year Promo,TV Ad,2022-01-27,2022-02-03,India,220022,INR
+3,Diwali Sale,Email,2024-05-06,2024-05-29,India,407821,INR
+4,Summer Sale,Influencer,2024-02-23,2024-03-20,India,241301,INR
+5,Back to School,Social Media,2022-02-11,2022-03-12,India,496502,INR
+6,Black Friday,App Notification,2023-04-27,2023-05-18,India,441578,INR
+7,Holiday Sale,Influencer,2024-07-27,2024-08-09,USA,195152,INR
+8,New Year Promo,Email,2023-03-23,2023-04-17,USA,357805,INR
+9,Diwali Sale,Retail,2023-04-27,2023-05-13,USA,314092,INR
+10,Summer Sale,Social Media,2022-11-25,2022-12-21,USA,154840,INR
+11,Back to School,App Notification,2022-12-04,2022-12-22,USA,463684,INR
+12,Black Friday,Influencer,2022-10-23,2022-11-18,USA,309952,INR
+13,Holiday Sale,Retail,2022-02-07,2022-02-26,UK,146168,INR
+14,New Year Promo,App Notification,2022-09-16,2022-10-01,UK,160776,INR
+15,Diwali Sale,TV Ad,2024-06-04,2024-06-25,UK,100603,INR
+16,Summer Sale,App Notification,2024-06-09,2024-07-01,UK,342208,INR
+17,Back to School,Retail,2022-02-25,2022-03-08,UK,371811,INR
+18,Black Friday,TV Ad,2023-09-30,2023-10-29,UK,361353,INR
+19,Holiday Sale,Social Media,2023-03-29,2023-04-27,China,127059,INR
+20,New Year Promo,Retail,2022-10-01,2022-10-23,China,168688,INR
+21,Diwali Sale,Email,2023-03-25,2023-04-21,China,354128,INR
+22,Summer Sale,Social Media,2022-01-30,2022-02-24,China,419224,INR
+23,Back to School,Influencer,2023-12-28,2024-01-07,China,262922,INR
+24,Black Friday,Email,2022-01-15,2022-02-06,China,313904,INR
+25,Holiday Sale,Email,2022-08-19,2022-08-27,UAE,341931,INR
+26,New Year Promo,TV Ad,2023-10-26,2023-11-04,UAE,361292,INR
+27,Diwali Sale,Retail,2022-10-26,2022-11-16,UAE,469838,INR
+28,Summer Sale,Social Media,2023-03-02,2023-03-22,UAE,347579,INR
+29,Back to School,App Notification,2023-04-13,2023-05-05,UAE,175834,INR
+30,Black Friday,TV Ad,2022-07-15,2022-08-08,UAE,366464,INR
+31,Holiday Sale,Retail,2024-06-19,2024-06-28,Italy,136600,INR
+32,New Year Promo,Retail,2024-03-02,2024-04-01,Italy,317549,INR
+33,Diwali Sale,Retail,2024-08-14,2024-09-13,Italy,366200,INR
+34,Summer Sale,TV Ad,2024-04-20,2024-04-25,Italy,248289,INR
+35,Back to School,TV Ad,2022-11-02,2022-11-25,Italy,404046,INR
+36,Black Friday,Influencer,2023-05-17,2023-05-26,Italy,334119,INR
+37,Holiday Sale,Influencer,2023-05-11,2023-05-27,Japan,274294,INR
+38,New Year Promo,App Notification,2024-02-21,2024-03-14,Japan,297766,INR
+39,Diwali Sale,TV Ad,2024-08-13,2024-08-28,Japan,198908,INR
+40,Summer Sale,Social Media,2022-09-02,2022-09-25,Japan,300787,INR
+41,Back to School,Email,2024-05-26,2024-06-24,Japan,315364,INR
+42,Black Friday,TV Ad,2022-11-22,2022-12-20,Japan,347975,INR
+43,Holiday Sale,App Notification,2024-07-24,2024-08-23,Australia,299874,INR
+44,New Year Promo,Social Media,2023-11-11,2023-12-11,Australia,441845,INR
+45,Diwali Sale,Influencer,2023-05-23,2023-05-29,Australia,166189,INR
+46,Summer Sale,Email,2024-09-15,2024-10-08,Australia,274060,INR
+47,Back to School,Influencer,2024-06-14,2024-07-03,Australia,152277,INR
+48,Black Friday,TV Ad,2024-07-21,2024-08-09,Australia,108046,INR
+49,Holiday Sale,Social Media,2022-05-28,2022-06-15,Mexico,443293,INR
+50,New Year Promo,Retail,2022-03-18,2022-04-07,Mexico,238948,INR
+51,Diwali Sale,TV Ad,2023-10-01,2023-10-28,Mexico,308395,INR
+52,Summer Sale,Influencer,2022-03-24,2022-04-08,Mexico,453557,INR
+53,Back to School,TV Ad,2023-01-25,2023-02-09,Mexico,428623,INR
+54,Black Friday,Influencer,2024-06-27,2024-07-26,Mexico,355825,INR
+55,Holiday Sale,Social Media,2022-02-06,2022-03-02,South Korea,135872,INR
+56,New Year Promo,Social Media,2023-10-09,2023-11-04,South Korea,250669,INR
+57,Diwali Sale,Email,2024-02-04,2024-02-11,South Korea,327526,INR
+58,Summer Sale,Email,2024-02-18,2024-03-14,South Korea,469041,INR
+59,Back to School,Retail,2023-03-31,2023-04-10,South Korea,463856,INR
+60,Black Friday,Retail,2024-07-14,2024-07-19,South Korea,124112,INR
