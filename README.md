@@ -37,4 +37,19 @@ The analysis includes:
 
 ## Slides with Queries & Insights
 
-![slide](SQLQueries/slide1.PNG)
+![slide](QuerySlides/Slide1.PNG)
+![slide](QuerySlides/Slide2.PNG)
+![slide](QuerySlides/Slide3.PNG)
+![slide](QuerySlides/Slide4.PNG)
+![slide](QuerySlides/Slide5.PNG)
+![slide](QuerySlides/Slide6.PNG)
+![slide](QuerySlides/Slide7.PNG)
+![slide](QuerySlides/Slide8.PNG)
+![slide](QuerySlides/Slide9.PNG)
+![slide](QuerySlides/Slide10.PNG)
+![slide](QuerySlides/Slide11.PNG)
+![slide](QuerySlides/Slide12.PNG)
+![slide](QuerySlides/Slide13.PNG)
+![slide](QuerySlides/Slide14.PNG)
+![slide](QuerySlides/Slide15.PNG)
+
