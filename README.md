@@ -1,5 +1,5 @@
 # Customer Loyalty & Marketing Attribution for Apple iPhones  
-### Tools: SQL • Excel • Tableau | 2025
+### Tools: SQL | 2025
 
 ## 📌 Project Overview  
 This project analyzes Apple iPhone sales, customer behavior, and marketing effectiveness using SQL.
@@ -33,8 +33,6 @@ The analysis includes:
 
 ## 🧠 Skills Demonstrated  
 - SQL: Joins, Window Functions, CTEs, Aggregations  
-- Excel: Cleaning, EDA, Trend Analysis  
-- Tableau: KPI Cards, Segmentation, Bar/Line Charts, Filters/Slicers  
 - Business Case Analysis: Customer loyalty & marketing ROI  
 
 
