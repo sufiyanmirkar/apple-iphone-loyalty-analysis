@@ -35,4 +35,6 @@ The analysis includes:
 - SQL: Joins, Window Functions, CTEs, Aggregations  
 - Business Case Analysis: Customer loyalty & marketing ROI  
 
+## Slides with Queries & Insights
 
+![slide](SQLQueries/slide1.PNG)
